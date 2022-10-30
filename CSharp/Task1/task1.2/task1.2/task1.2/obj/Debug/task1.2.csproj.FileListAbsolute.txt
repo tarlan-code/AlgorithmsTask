@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\bin\Debug\task1.2.exe.config
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\bin\Debug\task1.2.exe
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\bin\Debug\task1.2.pdb
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\obj\Debug\task1.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\obj\Debug\task1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\obj\Debug\task1.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\obj\Debug\task1.2.exe
+C:\Users\User\Desktop\Code Academy\CSharp\Task1\task1.2\task1.2\task1.2\obj\Debug\task1.2.pdb

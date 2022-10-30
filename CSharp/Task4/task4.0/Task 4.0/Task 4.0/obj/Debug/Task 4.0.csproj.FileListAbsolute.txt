@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\bin\Debug\Task 4.0.exe.config
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\bin\Debug\Task 4.0.exe
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\bin\Debug\Task 4.0.pdb
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\obj\Debug\Task 4.0.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\obj\Debug\Task 4.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\obj\Debug\Task 4.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\obj\Debug\Task 4.0.exe
+C:\Users\User\Desktop\Code Academy\CSharp\Task4\task4.0\Task 4.0\Task 4.0\obj\Debug\Task 4.0.pdb
