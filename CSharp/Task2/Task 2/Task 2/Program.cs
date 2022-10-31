@@ -25,7 +25,7 @@ namespace Task_2
                 num3 = eded % 10;
                 if (ededForTest < 1000 && ededForTest > 99)
                 {
-                    if (num1 == num2 && num1 == num3)
+                    if (num1 == num2 && num1 == num3 && num1 == num3)
                     {
                         Console.WriteLine("Bütün reqemler beraberdir");
                     }
